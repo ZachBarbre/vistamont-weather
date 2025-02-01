@@ -1,0 +1,905 @@
+{
+  "january": {
+    "days": [
+      {
+        "day": 1,
+        "temperature": {
+          "max": 48,
+          "avg": 43.0,
+          "min": 36
+        },
+        "humidity": {
+          "max": 33,
+          "avg": 31.7,
+          "min": 27
+        },
+        "relativeHumidity": {
+          "max": 77,
+          "avg": 65.0,
+          "min": 54
+        },
+        "precipitation": {
+          "max": 21,
+          "avg": 11.8,
+          "min": 6
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.1,
+          "min": 28.9
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 2,
+        "temperature": {
+          "max": 49,
+          "avg": 37.8,
+          "min": 29
+        },
+        "humidity": {
+          "max": 27,
+          "avg": 21.9,
+          "min": 18
+        },
+        "relativeHumidity": {
+          "max": 79,
+          "avg": 56.0,
+          "min": 31
+        },
+        "precipitation": {
+          "max": 12,
+          "avg": 6.9,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.3,
+          "avg": 29.2,
+          "min": 29.2
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 3,
+        "temperature": {
+          "max": 53,
+          "avg": 40.8,
+          "min": 31
+        },
+        "humidity": {
+          "max": 29,
+          "avg": 23.0,
+          "min": 14
+        },
+        "relativeHumidity": {
+          "max": 82,
+          "avg": 51.5,
+          "min": 32
+        },
+        "precipitation": {
+          "max": 21,
+          "avg": 10.0,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.2,
+          "min": 29.1
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 4,
+        "temperature": {
+          "max": 45,
+          "avg": 35.7,
+          "min": 29
+        },
+        "humidity": {
+          "max": 18,
+          "avg": 14.5,
+          "min": 8
+        },
+        "relativeHumidity": {
+          "max": 61,
+          "avg": 43.9,
+          "min": 25
+        },
+        "precipitation": {
+          "max": 15,
+          "avg": 8.7,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.3,
+          "avg": 29.2,
+          "min": 29.2
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 5,
+        "temperature": {
+          "max": 52,
+          "avg": 43.3,
+          "min": 27
+        },
+        "humidity": {
+          "max": 42,
+          "avg": 30.5,
+          "min": 18
+        },
+        "relativeHumidity": {
+          "max": 97,
+          "avg": 64.0,
+          "min": 33
+        },
+        "precipitation": {
+          "max": 12,
+          "avg": 4.9,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.0,
+          "min": 28.8
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 6,
+        "temperature": {
+          "max": 56,
+          "avg": 42.8,
+          "min": 29
+        },
+        "humidity": {
+          "max": 55,
+          "avg": 37.4,
+          "min": 20
+        },
+        "relativeHumidity": {
+          "max": 100,
+          "avg": 81.6,
+          "min": 67
+        },
+        "precipitation": {
+          "max": 21,
+          "avg": 13.3,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.0,
+          "avg": 28.8,
+          "min": 28.6
+        },
+        "totalPrecipitation": 0.88
+      },
+      {
+        "day": 7,
+        "temperature": {
+          "max": 40,
+          "avg": 31.5,
+          "min": 27
+        },
+        "humidity": {
+          "max": 22,
+          "avg": 20.0,
+          "min": 19
+        },
+        "relativeHumidity": {
+          "max": 75,
+          "avg": 63.6,
+          "min": 47
+        },
+        "precipitation": {
+          "max": 18,
+          "avg": 11.9,
+          "min": 6
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.1,
+          "min": 29.0
+        },
+        "totalPrecipitation": 0.03
+      },
+      {
+        "day": 8,
+        "temperature": {
+          "max": 36,
+          "avg": 28.1,
+          "min": 23
+        },
+        "humidity": {
+          "max": 20,
+          "avg": 17.7,
+          "min": 14
+        },
+        "relativeHumidity": {
+          "max": 81,
+          "avg": 65.8,
+          "min": 48
+        },
+        "precipitation": {
+          "max": 16,
+          "avg": 12.7,
+          "min": 7
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.2,
+          "min": 29.1
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 9,
+        "temperature": {
+          "max": 41,
+          "avg": 30.0,
+          "min": 20
+        },
+        "humidity": {
+          "max": 14,
+          "avg": 11.6,
+          "min": 9
+        },
+        "relativeHumidity": {
+          "max": 71,
+          "avg": 48.8,
+          "min": 29
+        },
+        "precipitation": {
+          "max": 13,
+          "avg": 6.7,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.1,
+          "min": 29.1
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 10,
+        "temperature": {
+          "max": 33,
+          "avg": 30.8,
+          "min": 28
+        },
+        "humidity": {
+          "max": 32,
+          "avg": 27.6,
+          "min": 14
+        },
+        "relativeHumidity": {
+          "max": 100,
+          "avg": 89.1,
+          "min": 48
+        },
+        "precipitation": {
+          "max": 14,
+          "avg": 3.9,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 28.9,
+          "min": 28.7
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 11,
+        "temperature": {
+          "max": 34,
+          "avg": 32.0,
+          "min": 26
+        },
+        "humidity": {
+          "max": 31,
+          "avg": 28.0,
+          "min": 23
+        },
+        "relativeHumidity": {
+          "max": 96,
+          "avg": 85.2,
+          "min": 75
+        },
+        "precipitation": {
+          "max": 15,
+          "avg": 10.0,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.0,
+          "avg": 28.8,
+          "min": 28.7
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 12,
+        "temperature": {
+          "max": 43,
+          "avg": 31.2,
+          "min": 21
+        },
+        "humidity": {
+          "max": 31,
+          "avg": 26.1,
+          "min": 19
+        },
+        "relativeHumidity": {
+          "max": 96,
+          "avg": 82.9,
+          "min": 53
+        },
+        "precipitation": {
+          "max": 5,
+          "avg": 1.5,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.0,
+          "min": 29.0
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 13,
+        "temperature": {
+          "max": 53,
+          "avg": 42.2,
+          "min": 34
+        },
+        "humidity": {
+          "max": 34,
+          "avg": 31.9,
+          "min": 29
+        },
+        "relativeHumidity": {
+          "max": 92,
+          "avg": 69.3,
+          "min": 48
+        },
+        "precipitation": {
+          "max": 13,
+          "avg": 5.7,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.1,
+          "min": 29.1
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 14,
+        "temperature": {
+          "max": 48,
+          "avg": 37.9,
+          "min": 29
+        },
+        "humidity": {
+          "max": 28,
+          "avg": 19.0,
+          "min": 12
+        },
+        "relativeHumidity": {
+          "max": 73,
+          "avg": 49.6,
+          "min": 26
+        },
+        "precipitation": {
+          "max": 14,
+          "avg": 9.5,
+          "min": 5
+        },
+        "pressure": {
+          "max": 29.3,
+          "avg": 29.2,
+          "min": 29.2
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 15,
+        "temperature": {
+          "max": 49,
+          "avg": 38.8,
+          "min": 28
+        },
+        "humidity": {
+          "max": 23,
+          "avg": 20.6,
+          "min": 17
+        },
+        "relativeHumidity": {
+          "max": 78,
+          "avg": 50.3,
+          "min": 28
+        },
+        "precipitation": {
+          "max": 13,
+          "avg": 5.9,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.4,
+          "avg": 29.3,
+          "min": 29.2
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 16,
+        "temperature": {
+          "max": 56,
+          "avg": 41.0,
+          "min": 26
+        },
+        "humidity": {
+          "max": 28,
+          "avg": 23.9,
+          "min": 22
+        },
+        "relativeHumidity": {
+          "max": 85,
+          "avg": 55.5,
+          "min": 28
+        },
+        "precipitation": {
+          "max": 18,
+          "avg": 7.5,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.1,
+          "min": 29.0
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 17,
+        "temperature": {
+          "max": 59,
+          "avg": 45.6,
+          "min": 29
+        },
+        "humidity": {
+          "max": 31,
+          "avg": 23.6,
+          "min": 17
+        },
+        "relativeHumidity": {
+          "max": 89,
+          "avg": 47.6,
+          "min": 20
+        },
+        "precipitation": {
+          "max": 7,
+          "avg": 2.8,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.0,
+          "min": 28.9
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 18,
+        "temperature": {
+          "max": 55,
+          "avg": 49.2,
+          "min": 42
+        },
+        "humidity": {
+          "max": 51,
+          "avg": 46.2,
+          "min": 29
+        },
+        "relativeHumidity": {
+          "max": 100,
+          "avg": 89.8,
+          "min": 46
+        },
+        "precipitation": {
+          "max": 9,
+          "avg": 3.1,
+          "min": 0
+        },
+        "pressure": {
+          "max": 28.9,
+          "avg": 28.8,
+          "min": 28.7
+        },
+        "totalPrecipitation": 0.44
+      },
+      {
+        "day": 19,
+        "temperature": {
+          "max": 47,
+          "avg": 41.6,
+          "min": 25
+        },
+        "humidity": {
+          "max": 47,
+          "avg": 37.7,
+          "min": 11
+        },
+        "relativeHumidity": {
+          "max": 100,
+          "avg": 87.2,
+          "min": 55
+        },
+        "precipitation": {
+          "max": 23,
+          "avg": 9.2,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 28.8,
+          "min": 28.7
+        },
+        "totalPrecipitation": 0.09
+      },
+      {
+        "day": 20,
+        "temperature": {
+          "max": 29,
+          "avg": 22.3,
+          "min": 16
+        },
+        "humidity": {
+          "max": 12,
+          "avg": 4.2,
+          "min": 0
+        },
+        "relativeHumidity": {
+          "max": 60,
+          "avg": 47.0,
+          "min": 29
+        },
+        "precipitation": {
+          "max": 15,
+          "avg": 10.7,
+          "min": 3
+        },
+        "pressure": {
+          "max": 29.4,
+          "avg": 29.3,
+          "min": 29.2
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 21,
+        "temperature": {
+          "max": 29,
+          "avg": 22.9,
+          "min": 19
+        },
+        "humidity": {
+          "max": 19,
+          "avg": 9.9,
+          "min": 3
+        },
+        "relativeHumidity": {
+          "max": 89,
+          "avg": 59.2,
+          "min": 44
+        },
+        "precipitation": {
+          "max": 15,
+          "avg": 7.0,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.4,
+          "avg": 29.3,
+          "min": 29.2
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 22,
+        "temperature": {
+          "max": 35,
+          "avg": 23.8,
+          "min": 12
+        },
+        "humidity": {
+          "max": 13,
+          "avg": 8.3,
+          "min": 5
+        },
+        "relativeHumidity": {
+          "max": 77,
+          "avg": 53.7,
+          "min": 32
+        },
+        "precipitation": {
+          "max": 10,
+          "avg": 3.8,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.2,
+          "avg": 29.1,
+          "min": 29.0
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 23,
+        "temperature": {
+          "max": 38,
+          "avg": 27.8,
+          "min": 20
+        },
+        "humidity": {
+          "max": 17,
+          "avg": 13.0,
+          "min": 5
+        },
+        "relativeHumidity": {
+          "max": 82,
+          "avg": 57.2,
+          "min": 31
+        },
+        "precipitation": {
+          "max": 13,
+          "avg": 3.2,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.0,
+          "avg": 29.0,
+          "min": 28.9
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 24,
+        "temperature": {
+          "max": 45,
+          "avg": 33.6,
+          "min": 20
+        },
+        "humidity": {
+          "max": 22,
+          "avg": 17.3,
+          "min": 15
+        },
+        "relativeHumidity": {
+          "max": 85,
+          "avg": 54.4,
+          "min": 33
+        },
+        "precipitation": {
+          "max": 16,
+          "avg": 5.6,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.0,
+          "min": 28.9
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 25,
+        "temperature": {
+          "max": 50,
+          "avg": 33.7,
+          "min": 21
+        },
+        "humidity": {
+          "max": 22,
+          "avg": 13.7,
+          "min": 5
+        },
+        "relativeHumidity": {
+          "max": 85,
+          "avg": 50.7,
+          "min": 16
+        },
+        "precipitation": {
+          "max": 7,
+          "avg": 1.8,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.1,
+          "min": 29.0
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 26,
+        "temperature": {
+          "max": 53,
+          "avg": 40.8,
+          "min": 25
+        },
+        "humidity": {
+          "max": 38,
+          "avg": 24.6,
+          "min": 16
+        },
+        "relativeHumidity": {
+          "max": 79,
+          "avg": 55.2,
+          "min": 30
+        },
+        "precipitation": {
+          "max": 9,
+          "avg": 1.4,
+          "min": 0
+        },
+        "pressure": {
+          "max": 28.9,
+          "avg": 28.9,
+          "min": 28.8
+        },
+        "totalPrecipitation": 0.31
+      },
+      {
+        "day": 27,
+        "temperature": {
+          "max": 49,
+          "avg": 44.8,
+          "min": 40
+        },
+        "humidity": {
+          "max": 47,
+          "avg": 43.4,
+          "min": 37
+        },
+        "relativeHumidity": {
+          "max": 100,
+          "avg": 95.1,
+          "min": 85
+        },
+        "precipitation": {
+          "max": 10,
+          "avg": 4.5,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.0,
+          "min": 28.9
+        },
+        "totalPrecipitation": 0.12
+      },
+      {
+        "day": 28,
+        "temperature": {
+          "max": 56,
+          "avg": 43.8,
+          "min": 32
+        },
+        "humidity": {
+          "max": 35,
+          "avg": 28.6,
+          "min": 25
+        },
+        "relativeHumidity": {
+          "max": 93,
+          "avg": 59.8,
+          "min": 30
+        },
+        "precipitation": {
+          "max": 16,
+          "avg": 8.7,
+          "min": 3
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.1,
+          "min": 29.0
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 29,
+        "temperature": {
+          "max": 65,
+          "avg": 51.3,
+          "min": 41
+        },
+        "humidity": {
+          "max": 40,
+          "avg": 32.9,
+          "min": 29
+        },
+        "relativeHumidity": {
+          "max": 80,
+          "avg": 52.4,
+          "min": 28
+        },
+        "precipitation": {
+          "max": 18,
+          "avg": 9.2,
+          "min": 3
+        },
+        "pressure": {
+          "max": 28.9,
+          "avg": 28.9,
+          "min": 28.8
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 30,
+        "temperature": {
+          "max": 67,
+          "avg": 54.5,
+          "min": 39
+        },
+        "humidity": {
+          "max": 40,
+          "avg": 33.4,
+          "min": 27
+        },
+        "relativeHumidity": {
+          "max": 79,
+          "avg": 49.3,
+          "min": 23
+        },
+        "precipitation": {
+          "max": 10,
+          "avg": 3.5,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.0,
+          "avg": 29.0,
+          "min": 28.9
+        },
+        "totalPrecipitation": 0.0
+      },
+      {
+        "day": 31,
+        "temperature": {
+          "max": 63,
+          "avg": 56.9,
+          "min": 49
+        },
+        "humidity": {
+          "max": 59,
+          "avg": 52.8,
+          "min": 42
+        },
+        "relativeHumidity": {
+          "max": 97,
+          "avg": 86.9,
+          "min": 57
+        },
+        "precipitation": {
+          "max": 15,
+          "avg": 8.5,
+          "min": 0
+        },
+        "pressure": {
+          "max": 29.1,
+          "avg": 29.0,
+          "min": 28.9
+        },
+        "totalPrecipitation": 0.0
+      }
+    ]
+  }
+}
