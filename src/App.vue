@@ -1,6 +1,9 @@
 <script setup>
+import { ref } from 'vue'
 import data from './assets/january-25-weather.json'
 import LineChart from './components/LineChart.vue'
+
+const januaryData = ref(data.january.days)
 </script>
 
 <template>
@@ -9,7 +12,7 @@ import LineChart from './components/LineChart.vue'
   </header>
 
   <main>
-    <LineChart :data="data" />
+    <LineChart :data="januaryData" />
     <div>This will a list of the top five coldest and hotest days</div>
   </main>
 </template>
